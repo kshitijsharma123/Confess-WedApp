@@ -30,21 +30,14 @@
 .centerContent {
     width: 60%;
     background-color: white;
-    padding: 10px;
-    margin: 0 auto;
+    
 }
 
 .rightSideBar {
     float: left;
     width: 20%;
     height: 50em;
-
     border: 1%;
     border-right-style: solid;
     border-color: rgb(227, 117, 20);
-}
-
-.leftSideBar:hover {
-    color: rgb(227, 117, 20);
-    box-shadow: 2px 0 2px 0;
 }
